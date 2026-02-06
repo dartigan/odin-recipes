@@ -1,0 +1,53 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    margin: 60px auto;
+}
+
+h2 {
+    color: #8b4513;
+    background-color: rgb(238, 215, 215);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+.recipe-lst-card {
+    color: red;
+    background-color: rgb(159, 177, 149);
+    width: 400px;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 15px;
+    border: 2px solid black;
+}
+
+.recipe-item {
+    border: 2px dashed white;
+}
+
+.recipe-card {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.recipe-img {
+    display: block;
+    height: 400px;
+    margin: 0 auto;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.heading-text {
+    margin: 20px auto;
+    padding: 5px;
+    background-color: #fffbf2;
+    border: 1px solid #d2b48c;
+    border-radius: 15px;
+}
